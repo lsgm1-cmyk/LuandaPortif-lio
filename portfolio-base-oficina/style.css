@@ -21,6 +21,7 @@ body { margin: 0; background: var(--cor-fundo); color: var(--cor-texto); font-fa
 a { color: inherit; text-decoration: none; }
 .container { width: min(1120px, calc(100% - 48px)); margin-inline: auto; }
 
+
 .cabecalho { border-bottom: 1px solid var(--cor-linha); }
 .navegacao { min-height: 82px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
 .marca { font-size: 1.45rem; font-weight: 800; letter-spacing: -.08em; }
@@ -125,3 +126,8 @@ h3 { font-size: 1.42rem; letter-spacing: -.035em; margin: 7px 0 9px; }
   .contato-caixa { padding: 64px 20px; }
   .rodape-conteudo { flex-direction: column; justify-content: center; padding: 15px 0; }
 }
+
+/* ==========================================
+   Manutenção e organização dos estilos
+   Arquivo principal de identidade visual
+   ========================================== */

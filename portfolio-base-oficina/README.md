@@ -91,4 +91,4 @@ Cada projeto, descoberta e aprendizado faz parte da sua trajetória. O mais impo
 
 Feito com carinho para a oficina **Minha Marca na Tech: Criando Meu Primeiro Portfólio**. ⋆.𐙚 ̊
 
-**Ministrantes:** Alexia, Vitória, Isabela e Cecília.
+**Ministrantes:** Alexia, Vitória, Isabela.
